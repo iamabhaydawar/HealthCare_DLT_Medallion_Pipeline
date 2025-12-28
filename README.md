@@ -262,5 +262,4 @@ Healthcare_DLT_Pipeline_Project/
 
 This Healthcare DLT Pipeline demonstrates a production-ready implementation of the medallion architecture with comprehensive data quality enforcement, real-time streaming capabilities, and multi-dimensional analytics. The pipeline provides a solid foundation for healthcare data processing with built-in observability and maintainability features.
 
-## Contact
-For questions or issues with this pipeline, please refer to the Databricks documentation or contact the data engineering team.
+
