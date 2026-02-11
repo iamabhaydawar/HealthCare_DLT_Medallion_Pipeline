@@ -33,6 +33,8 @@ Healthcare_DLT_Pipeline_Project/
 │   └── patients_daily_file_*.csv
 └── README.md                              # This file
 ```
+<img width="1900" height="933" alt="Screenshot 2025-12-24 163623" src="https://github.com/user-attachments/assets/d5d570f5-764e-42f3-8a15-bd644b7b2fa7" />
+
 
 ## Data Sources
 
